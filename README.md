@@ -19,16 +19,31 @@ Aplicar os conceitos de modelagem de dados, criação de tabelas, relacionamento
 Banco de dados para gerenciamento de sedes, veículos, clientes, classes de carros e reservas.
 
 **Conteúdos aplicados:**
+
 - Criação de banco de dados e tabelas.
 - Chaves primárias e estrangeiras.
 - Relacionamentos entre tabelas.
 - Integridade referencial.
 
-**Arquivo:** `SistemaReservaCarros.sql`
+**Arquivo:** `01-SistemaReservaCarros/SistemaReservaCarros.sql`
 
-### 2. Próximo projeto
+### 2. Banco de Dados — Fórmula 1
 
-A desenvolver.
+Projeto de banco de dados baseado no cenário da Fórmula 1, desenvolvido para praticar comandos SQL e consultas relacionadas a pilotos, países, equipes, corridas e participantes.
+
+**Conteúdos aplicados:**
+
+- Criação e estruturação de tabelas.
+- Inserção e manipulação de dados.
+- Chaves primárias e estrangeiras.
+- Relacionamentos entre tabelas.
+- Consultas com `SELECT`, `WHERE`, `JOIN` e `LIKE`.
+- Alteração de tabelas com `ALTER TABLE`.
+- Atualização de registros com `UPDATE`.
+- Funções de agregação, como `AVG`.
+- Agrupamento e ordenação de resultados.
+
+**Arquivo:** `02-Formula1/Formula1.sql`
 
 ### 3. Próximo projeto
 
